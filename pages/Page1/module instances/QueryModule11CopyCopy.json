@@ -12,6 +12,7 @@
       "input11": "2",
       "input12": "1",
       "input13": "",
+      "input14": "11",
       "input2": "",
       "input3": "",
       "input4": "4",
@@ -32,6 +33,13 @@
         "id": "batpvcznie",
         "label": "oooooo",
         "propertyName": "inputs.oooooo"
+      },
+      "bsvugrgjkb": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "11",
+        "id": "bsvugrgjkb",
+        "label": "input14",
+        "propertyName": "inputs.input14"
       },
       "dgtazfjfdo": {
         "controlType": "INPUT_TEXT",
