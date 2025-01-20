@@ -7,27 +7,17 @@
   "unpublishedModuleInstance": {
     "contextType": "PAGE",
     "inputs": {
-      "input1": "",
-      "input2": "",
-      "input3": "",
-      "input4": "",
       "limit": "2",
-      "offset": "2"
+      "offset": "2",
+      "testK": "11"
     },
     "moduleInputs": {
-      "dazprtbfnx": {
+      "fcbzxfhrds": {
         "controlType": "INPUT_TEXT",
-        "defaultValue": "",
-        "id": "dazprtbfnx",
-        "label": "input2",
-        "propertyName": "inputs.input2"
-      },
-      "gszmqbkcao": {
-        "controlType": "INPUT_TEXT",
-        "defaultValue": "",
-        "id": "gszmqbkcao",
-        "label": "input3",
-        "propertyName": "inputs.input3"
+        "defaultValue": "11",
+        "id": "fcbzxfhrds",
+        "label": "testK",
+        "propertyName": "inputs.testK"
       },
       "kvqpfqqlnr": {
         "controlType": "INPUT_TEXT",
@@ -35,20 +25,6 @@
         "id": "kvqpfqqlnr",
         "label": "limit",
         "propertyName": "inputs.limit"
-      },
-      "usknsjbwqt": {
-        "controlType": "INPUT_TEXT",
-        "defaultValue": "",
-        "id": "usknsjbwqt",
-        "label": "input1",
-        "propertyName": "inputs.input1"
-      },
-      "xzckiofody": {
-        "controlType": "INPUT_TEXT",
-        "defaultValue": "",
-        "id": "xzckiofody",
-        "label": "input4",
-        "propertyName": "inputs.input4"
       },
       "yjjcfupvoo": {
         "controlType": "INPUT_TEXT",
