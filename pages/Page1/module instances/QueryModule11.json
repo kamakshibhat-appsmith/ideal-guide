@@ -12,6 +12,7 @@
       "input3": "22",
       "input4": "qq",
       "input5": "56",
+      "input6": "1",
       "limit": "2",
       "offset": "2",
       "oppp": "1",
@@ -26,6 +27,13 @@
         "id": "bnrqoodxwq",
         "label": "input5",
         "propertyName": "inputs.input5"
+      },
+      "danisscuqc": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "1",
+        "id": "danisscuqc",
+        "label": "input6",
+        "propertyName": "inputs.input6"
       },
       "ebbisdpqqm": {
         "controlType": "INPUT_TEXT",
