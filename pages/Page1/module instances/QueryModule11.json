@@ -8,6 +8,7 @@
     "contextType": "PAGE",
     "inputs": {
       "input1": "44",
+      "input2": "22",
       "limit": "2",
       "offset": "2",
       "op": "3",
@@ -29,6 +30,13 @@
         "id": "fcbzxfhrds",
         "label": "testK",
         "propertyName": "inputs.testK"
+      },
+      "hbnnbatefn": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "22",
+        "id": "hbnnbatefn",
+        "label": "input2",
+        "propertyName": "inputs.input2"
       },
       "kvqpfqqlnr": {
         "controlType": "INPUT_TEXT",
