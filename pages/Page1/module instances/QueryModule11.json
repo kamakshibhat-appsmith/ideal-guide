@@ -9,9 +9,17 @@
     "inputs": {
       "limit": "2",
       "offset": "2",
+      "op": "3",
       "testK": "11"
     },
     "moduleInputs": {
+      "azyemqtayb": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "3",
+        "id": "azyemqtayb",
+        "label": "op",
+        "propertyName": "inputs.op"
+      },
       "fcbzxfhrds": {
         "controlType": "INPUT_TEXT",
         "defaultValue": "11",
