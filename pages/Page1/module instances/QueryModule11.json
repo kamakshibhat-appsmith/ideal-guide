@@ -9,6 +9,7 @@
     "inputs": {
       "input1": "44",
       "input2": "111",
+      "input3": "100",
       "limit": "2",
       "offset": "2",
       "oppp": "1",
@@ -16,6 +17,13 @@
       "testK": "11"
     },
     "moduleInputs": {
+      "eedpgtnqph": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "100",
+        "id": "eedpgtnqph",
+        "label": "input3",
+        "propertyName": "inputs.input3"
+      },
       "fcbzxfhrds": {
         "controlType": "INPUT_TEXT",
         "defaultValue": "11",
