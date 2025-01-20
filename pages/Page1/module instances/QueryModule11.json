@@ -11,7 +11,8 @@
       "input2": "",
       "input3": "",
       "kamakshi": "21",
-      "oooooo": ""
+      "oooooo": "",
+      "pppppppppppp": ""
     },
     "moduleInputs": {
       "batpvcznie": {
@@ -27,6 +28,13 @@
         "id": "farrpmvgwn",
         "label": "input2",
         "propertyName": "inputs.input2"
+      },
+      "jerlukfter": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "",
+        "id": "jerlukfter",
+        "label": "pppppppppppp",
+        "propertyName": "inputs.pppppppppppp"
       },
       "nyuwoeysyx": {
         "controlType": "INPUT_TEXT",
