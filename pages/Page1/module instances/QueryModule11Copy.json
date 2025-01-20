@@ -15,6 +15,7 @@
       "input6": "",
       "input7": "",
       "input8": "",
+      "input9": "",
       "jfhdjdhdjdhdjd": "2",
       "kamakshi": "21",
       "oooooo": "",
@@ -41,6 +42,13 @@
         "id": "farrpmvgwn",
         "label": "input2",
         "propertyName": "inputs.input2"
+      },
+      "fddwqdhsvw": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "",
+        "id": "fddwqdhsvw",
+        "label": "input9",
+        "propertyName": "inputs.input9"
       },
       "hefhiukaie": {
         "controlType": "INPUT_TEXT",
