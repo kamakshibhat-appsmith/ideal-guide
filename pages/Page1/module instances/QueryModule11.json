@@ -7,39 +7,15 @@
   "unpublishedModuleInstance": {
     "contextType": "PAGE",
     "inputs": {
-      "K": "34",
-      "KJOO": "1",
-      "limit": "2",
-      "testest": "22"
+      "kamakshi": "21"
     },
     "moduleInputs": {
-      "cloujpjdlj": {
+      "pkikghiewe": {
         "controlType": "INPUT_TEXT",
-        "defaultValue": "1",
-        "id": "cloujpjdlj",
-        "label": "KJOO",
-        "propertyName": "inputs.KJOO"
-      },
-      "kvqpfqqlnr": {
-        "controlType": "INPUT_TEXT",
-        "defaultValue": "1",
-        "id": "kvqpfqqlnr",
-        "label": "limit",
-        "propertyName": "inputs.limit"
-      },
-      "ttsaszstkt": {
-        "controlType": "INPUT_TEXT",
-        "defaultValue": "22",
-        "id": "ttsaszstkt",
-        "label": "testest",
-        "propertyName": "inputs.testest"
-      },
-      "ujizdpvtiy": {
-        "controlType": "INPUT_TEXT",
-        "defaultValue": "34",
-        "id": "ujizdpvtiy",
-        "label": "K",
-        "propertyName": "inputs.K"
+        "defaultValue": "21",
+        "id": "pkikghiewe",
+        "label": "kamakshi",
+        "propertyName": "inputs.kamakshi"
       }
     },
     "name": "QueryModule11",
