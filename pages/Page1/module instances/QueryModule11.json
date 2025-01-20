@@ -13,6 +13,7 @@
       "input4": "4",
       "input5": "5",
       "input6": "",
+      "input7": "",
       "jfhdjdhdjdhdjd": "2",
       "kamakshi": "21",
       "oooooo": "",
@@ -88,6 +89,13 @@
         "id": "pkikghiewe",
         "label": "kamakshi",
         "propertyName": "inputs.kamakshi"
+      },
+      "ypgasyjtaf": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "",
+        "id": "ypgasyjtaf",
+        "label": "input7",
+        "propertyName": "inputs.input7"
       }
     },
     "name": "QueryModule11",
