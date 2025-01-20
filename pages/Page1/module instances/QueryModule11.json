@@ -10,6 +10,7 @@
       "input1": "",
       "input2": "",
       "input3": "",
+      "jfhdjdhdjdhdjd": "2",
       "kamakshi": "21",
       "oooooo": "",
       "pppppppppppp": ""
@@ -49,6 +50,13 @@
         "id": "ogiawguvxe",
         "label": "input1",
         "propertyName": "inputs.input1"
+      },
+      "pitpvfkftn": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "2",
+        "id": "pitpvfkftn",
+        "label": "jfhdjdhdjdhdjd",
+        "propertyName": "inputs.jfhdjdhdjdhdjd"
       },
       "pkikghiewe": {
         "controlType": "INPUT_TEXT",
