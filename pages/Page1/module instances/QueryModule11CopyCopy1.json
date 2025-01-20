@@ -11,6 +11,7 @@
       "input10": "1",
       "input11": "2",
       "input12": "1",
+      "input13": "",
       "input2": "",
       "input3": "",
       "input4": "4",
@@ -38,6 +39,13 @@
         "id": "dgtazfjfdo",
         "label": "input6",
         "propertyName": "inputs.input6"
+      },
+      "dyjkengqmt": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "",
+        "id": "dyjkengqmt",
+        "label": "input13",
+        "propertyName": "inputs.input13"
       },
       "ezhrdyszar": {
         "controlType": "INPUT_TEXT",
