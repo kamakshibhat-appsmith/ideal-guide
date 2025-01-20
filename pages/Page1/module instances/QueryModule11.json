@@ -7,16 +7,13 @@
   "unpublishedModuleInstance": {
     "contextType": "PAGE",
     "inputs": {
-      "asdf": "2",
       "input1": "44",
-      "input2sdsd": "7",
       "limit": "2",
       "offset": "2",
       "oppp": "1",
       "qaqqqa": "33",
-      "qweas": "1",
-      "testK": "11",
-      "tweak": "5"
+      "ret": "3",
+      "testK": "11"
     },
     "moduleInputs": {
       "fcbzxfhrds": {
@@ -47,40 +44,19 @@
         "label": "oppp",
         "propertyName": "inputs.oppp"
       },
+      "swprozlnry": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "3",
+        "id": "swprozlnry",
+        "label": "ret",
+        "propertyName": "inputs.ret"
+      },
       "tqzzlzvpbu": {
         "controlType": "INPUT_TEXT",
         "defaultValue": "44",
         "id": "tqzzlzvpbu",
         "label": "input1",
         "propertyName": "inputs.input1"
-      },
-      "vflmhxedrw": {
-        "controlType": "INPUT_TEXT",
-        "defaultValue": "1",
-        "id": "vflmhxedrw",
-        "label": "qweas",
-        "propertyName": "inputs.qweas"
-      },
-      "vrpfgbgtqg": {
-        "controlType": "INPUT_TEXT",
-        "defaultValue": "5",
-        "id": "vrpfgbgtqg",
-        "label": "tweak",
-        "propertyName": "inputs.tweak"
-      },
-      "vrvsdsnsru": {
-        "controlType": "INPUT_TEXT",
-        "defaultValue": "2",
-        "id": "vrvsdsnsru",
-        "label": "asdf",
-        "propertyName": "inputs.asdf"
-      },
-      "ybzgchtnpt": {
-        "controlType": "INPUT_TEXT",
-        "defaultValue": "7",
-        "id": "ybzgchtnpt",
-        "label": "input2sdsd",
-        "propertyName": "inputs.input2sdsd"
       },
       "yjjcfupvoo": {
         "controlType": "INPUT_TEXT",
