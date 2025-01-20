@@ -16,6 +16,7 @@
       "input15": "222",
       "input16": "12",
       "input17": "",
+      "input18": "",
       "input2": "",
       "input3": "",
       "input4": "4",
@@ -127,6 +128,13 @@
         "id": "ogiawguvxe",
         "label": "input1",
         "propertyName": "inputs.input1"
+      },
+      "pbwynpqtqh": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "",
+        "id": "pbwynpqtqh",
+        "label": "input18",
+        "propertyName": "inputs.input18"
       },
       "pfsgxnaauu": {
         "controlType": "INPUT_TEXT",
