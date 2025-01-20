@@ -14,6 +14,7 @@
       "input13": "",
       "input14": "11",
       "input15": "222",
+      "input16": "12",
       "input2": "",
       "input3": "",
       "input4": "4",
@@ -97,6 +98,13 @@
         "id": "jerlukfter",
         "label": "pppppppppppp",
         "propertyName": "inputs.pppppppppppp"
+      },
+      "mideujgsgp": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "12",
+        "id": "mideujgsgp",
+        "label": "input16",
+        "propertyName": "inputs.input16"
       },
       "nyuwoeysyx": {
         "controlType": "INPUT_TEXT",
