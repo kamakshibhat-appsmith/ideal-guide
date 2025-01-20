@@ -8,6 +8,7 @@
     "contextType": "PAGE",
     "inputs": {
       "input1": "",
+      "input10": "1",
       "input2": "",
       "input3": "",
       "input4": "4",
@@ -105,6 +106,13 @@
         "id": "pkikghiewe",
         "label": "kamakshi",
         "propertyName": "inputs.kamakshi"
+      },
+      "wtftpdeuyw": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "1",
+        "id": "wtftpdeuyw",
+        "label": "input10",
+        "propertyName": "inputs.input10"
       },
       "ypgasyjtaf": {
         "controlType": "INPUT_TEXT",
