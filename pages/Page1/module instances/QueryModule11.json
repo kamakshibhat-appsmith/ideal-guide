@@ -8,6 +8,7 @@
     "contextType": "PAGE",
     "inputs": {
       "input1": "44",
+      "input2": "",
       "limit": "2",
       "offset": "2",
       "oppp": "1",
@@ -43,6 +44,13 @@
         "id": "rtboyggpqn",
         "label": "oppp",
         "propertyName": "inputs.oppp"
+      },
+      "rydlayzhet": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "",
+        "id": "rydlayzhet",
+        "label": "input2",
+        "propertyName": "inputs.input2"
       },
       "swprozlnry": {
         "controlType": "INPUT_TEXT",
