@@ -11,6 +11,7 @@
       "offset": "2",
       "op": "3",
       "oppp": "1",
+      "popo": "",
       "testK": "11"
     },
     "moduleInputs": {
@@ -20,6 +21,13 @@
         "id": "azyemqtayb",
         "label": "op",
         "propertyName": "inputs.op"
+      },
+      "emfsvawhbm": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "",
+        "id": "emfsvawhbm",
+        "label": "popo",
+        "propertyName": "inputs.popo"
       },
       "fcbzxfhrds": {
         "controlType": "INPUT_TEXT",
