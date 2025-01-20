@@ -9,7 +9,8 @@
     "inputs": {
       "K": "34",
       "KJOO": "1",
-      "limit": "2"
+      "limit": "2",
+      "testest": "22"
     },
     "moduleInputs": {
       "cloujpjdlj": {
@@ -25,6 +26,13 @@
         "id": "kvqpfqqlnr",
         "label": "limit",
         "propertyName": "inputs.limit"
+      },
+      "ttsaszstkt": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "22",
+        "id": "ttsaszstkt",
+        "label": "testest",
+        "propertyName": "inputs.testest"
       },
       "ujizdpvtiy": {
         "controlType": "INPUT_TEXT",
