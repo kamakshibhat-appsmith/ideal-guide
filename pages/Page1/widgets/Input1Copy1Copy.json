@@ -3,7 +3,7 @@
   "animateLoading": true,
   "autoFocus": false,
   "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
-  "bottomRow": 50,
+  "bottomRow": 35,
   "boxShadow": "none",
   "defaultText": "{{QueryModule11.data.length}}",
   "dynamicBindingPathList": [
@@ -32,7 +32,7 @@
   "labelStyle": "",
   "labelTextSize": "0.875rem",
   "labelWidth": 5,
-  "leftColumn": 3,
+  "leftColumn": 28,
   "maxDynamicHeight": 9000,
   "minDynamicHeight": 4,
   "minWidth": 450,
@@ -47,11 +47,11 @@
   "renderMode": "CANVAS",
   "resetOnSubmit": true,
   "responsiveBehavior": "fill",
-  "rightColumn": 23,
+  "rightColumn": 48,
   "showStepArrows": false,
-  "topRow": 43,
+  "topRow": 28,
   "type": "INPUT_WIDGET_V2",
   "version": 2,
-  "widgetId": "wynnyqgfc8",
-  "widgetName": "Input1CopyCopy"
+  "widgetId": "v9srcrqrv3",
+  "widgetName": "Input1Copy1Copy"
 }
