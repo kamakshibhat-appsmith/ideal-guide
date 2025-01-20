@@ -10,6 +10,8 @@
       "input1": "",
       "input2": "",
       "input3": "",
+      "input4": "4",
+      "input5": "5",
       "jfhdjdhdjdhdjd": "2",
       "kamakshi": "21",
       "oooooo": "",
@@ -29,6 +31,13 @@
         "id": "farrpmvgwn",
         "label": "input2",
         "propertyName": "inputs.input2"
+      },
+      "hefhiukaie": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "5",
+        "id": "hefhiukaie",
+        "label": "input5",
+        "propertyName": "inputs.input5"
       },
       "jerlukfter": {
         "controlType": "INPUT_TEXT",
@@ -50,6 +59,13 @@
         "id": "ogiawguvxe",
         "label": "input1",
         "propertyName": "inputs.input1"
+      },
+      "pfsgxnaauu": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "4",
+        "id": "pfsgxnaauu",
+        "label": "input4",
+        "propertyName": "inputs.input4"
       },
       "pitpvfkftn": {
         "controlType": "INPUT_TEXT",
