@@ -7,6 +7,7 @@
   "unpublishedModuleInstance": {
     "contextType": "PAGE",
     "inputs": {
+      "input1": "44",
       "limit": "2",
       "offset": "2",
       "op": "3",
@@ -42,6 +43,13 @@
         "id": "rtboyggpqn",
         "label": "oppp",
         "propertyName": "inputs.oppp"
+      },
+      "tqzzlzvpbu": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "44",
+        "id": "tqzzlzvpbu",
+        "label": "input1",
+        "propertyName": "inputs.input1"
       },
       "uadtsokhhv": {
         "controlType": "INPUT_TEXT",
