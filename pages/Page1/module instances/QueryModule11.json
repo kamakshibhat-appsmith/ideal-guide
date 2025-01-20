@@ -8,9 +8,17 @@
     "contextType": "PAGE",
     "inputs": {
       "K": "34",
+      "KJOO": "1",
       "limit": "2"
     },
     "moduleInputs": {
+      "cloujpjdlj": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "1",
+        "id": "cloujpjdlj",
+        "label": "KJOO",
+        "propertyName": "inputs.KJOO"
+      },
       "kvqpfqqlnr": {
         "controlType": "INPUT_TEXT",
         "defaultValue": "1",
