@@ -8,22 +8,13 @@
     "contextType": "PAGE",
     "inputs": {
       "input1": "44",
-      "input2": "22",
       "limit": "2",
       "offset": "2",
-      "op": "3",
       "oppp": "1",
-      "testK": "11",
-      "yrue": "11"
+      "qaqqqa": "33",
+      "testK": "11"
     },
     "moduleInputs": {
-      "azyemqtayb": {
-        "controlType": "INPUT_TEXT",
-        "defaultValue": "3",
-        "id": "azyemqtayb",
-        "label": "op",
-        "propertyName": "inputs.op"
-      },
       "fcbzxfhrds": {
         "controlType": "INPUT_TEXT",
         "defaultValue": "11",
@@ -31,19 +22,19 @@
         "label": "testK",
         "propertyName": "inputs.testK"
       },
-      "hbnnbatefn": {
-        "controlType": "INPUT_TEXT",
-        "defaultValue": "22",
-        "id": "hbnnbatefn",
-        "label": "input2",
-        "propertyName": "inputs.input2"
-      },
       "kvqpfqqlnr": {
         "controlType": "INPUT_TEXT",
         "defaultValue": "1",
         "id": "kvqpfqqlnr",
         "label": "limit",
         "propertyName": "inputs.limit"
+      },
+      "lebvnaahyz": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "33",
+        "id": "lebvnaahyz",
+        "label": "qaqqqa",
+        "propertyName": "inputs.qaqqqa"
       },
       "rtboyggpqn": {
         "controlType": "INPUT_TEXT",
@@ -58,13 +49,6 @@
         "id": "tqzzlzvpbu",
         "label": "input1",
         "propertyName": "inputs.input1"
-      },
-      "uadtsokhhv": {
-        "controlType": "INPUT_TEXT",
-        "defaultValue": "11",
-        "id": "uadtsokhhv",
-        "label": "yrue",
-        "propertyName": "inputs.yrue"
       },
       "yjjcfupvoo": {
         "controlType": "INPUT_TEXT",
