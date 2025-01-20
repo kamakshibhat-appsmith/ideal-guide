@@ -13,6 +13,7 @@
       "input12": "1",
       "input13": "",
       "input14": "11",
+      "input15": "222",
       "input2": "",
       "input3": "",
       "input4": "4",
@@ -152,6 +153,13 @@
         "id": "ypgasyjtaf",
         "label": "input7",
         "propertyName": "inputs.input7"
+      },
+      "yvvsmjmjoc": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "222",
+        "id": "yvvsmjmjoc",
+        "label": "input15",
+        "propertyName": "inputs.input15"
       }
     },
     "name": "QueryModule11",
