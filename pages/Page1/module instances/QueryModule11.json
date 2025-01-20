@@ -7,6 +7,7 @@
   "unpublishedModuleInstance": {
     "contextType": "PAGE",
     "inputs": {
+      "input1": "",
       "limit": "2",
       "offset": "2"
     },
@@ -17,6 +18,13 @@
         "id": "kvqpfqqlnr",
         "label": "limit",
         "propertyName": "inputs.limit"
+      },
+      "usknsjbwqt": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "",
+        "id": "usknsjbwqt",
+        "label": "input1",
+        "propertyName": "inputs.input1"
       },
       "yjjcfupvoo": {
         "controlType": "INPUT_TEXT",
