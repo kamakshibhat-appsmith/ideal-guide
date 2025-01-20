@@ -8,9 +8,25 @@
     "contextType": "PAGE",
     "inputs": {
       "input1": "",
+      "input2": "",
+      "input3": "",
       "kamakshi": "21"
     },
     "moduleInputs": {
+      "farrpmvgwn": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "",
+        "id": "farrpmvgwn",
+        "label": "input2",
+        "propertyName": "inputs.input2"
+      },
+      "nyuwoeysyx": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "",
+        "id": "nyuwoeysyx",
+        "label": "input3",
+        "propertyName": "inputs.input3"
+      },
       "ogiawguvxe": {
         "controlType": "INPUT_TEXT",
         "defaultValue": "",
