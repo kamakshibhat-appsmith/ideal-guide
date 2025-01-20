@@ -8,6 +8,7 @@
     "contextType": "PAGE",
     "inputs": {
       "input1": "44",
+      "input2sdsd": "7",
       "limit": "2",
       "offset": "2",
       "oppp": "1",
@@ -57,6 +58,13 @@
         "id": "vrpfgbgtqg",
         "label": "tweak",
         "propertyName": "inputs.tweak"
+      },
+      "ybzgchtnpt": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "7",
+        "id": "ybzgchtnpt",
+        "label": "input2sdsd",
+        "propertyName": "inputs.input2sdsd"
       },
       "yjjcfupvoo": {
         "controlType": "INPUT_TEXT",
