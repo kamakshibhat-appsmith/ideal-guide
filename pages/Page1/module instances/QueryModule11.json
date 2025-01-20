@@ -8,10 +8,18 @@
     "contextType": "PAGE",
     "inputs": {
       "input1": "",
+      "input2": "",
       "limit": "2",
       "offset": "2"
     },
     "moduleInputs": {
+      "dazprtbfnx": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "",
+        "id": "dazprtbfnx",
+        "label": "input2",
+        "propertyName": "inputs.input2"
+      },
       "kvqpfqqlnr": {
         "controlType": "INPUT_TEXT",
         "defaultValue": "1",
