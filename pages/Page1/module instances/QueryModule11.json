@@ -11,6 +11,10 @@
       "input2": "",
       "input3": "",
       "input4": "4",
+      "input5": "5",
+      "input6": "",
+      "input7": "",
+      "input8": "",
       "jfhdjdhdjdhdjd": "2",
       "kamakshi": "21",
       "oooooo": "",
@@ -24,12 +28,26 @@
         "label": "oooooo",
         "propertyName": "inputs.oooooo"
       },
+      "dgtazfjfdo": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "",
+        "id": "dgtazfjfdo",
+        "label": "input6",
+        "propertyName": "inputs.input6"
+      },
       "farrpmvgwn": {
         "controlType": "INPUT_TEXT",
         "defaultValue": "",
         "id": "farrpmvgwn",
         "label": "input2",
         "propertyName": "inputs.input2"
+      },
+      "hefhiukaie": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "5",
+        "id": "hefhiukaie",
+        "label": "input5",
+        "propertyName": "inputs.input5"
       },
       "jerlukfter": {
         "controlType": "INPUT_TEXT",
@@ -44,6 +62,13 @@
         "id": "nyuwoeysyx",
         "label": "input3",
         "propertyName": "inputs.input3"
+      },
+      "ocanygfnav": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "",
+        "id": "ocanygfnav",
+        "label": "input8",
+        "propertyName": "inputs.input8"
       },
       "ogiawguvxe": {
         "controlType": "INPUT_TEXT",
@@ -72,6 +97,13 @@
         "id": "pkikghiewe",
         "label": "kamakshi",
         "propertyName": "inputs.kamakshi"
+      },
+      "ypgasyjtaf": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "",
+        "id": "ypgasyjtaf",
+        "label": "input7",
+        "propertyName": "inputs.input7"
       }
     },
     "name": "QueryModule11",
