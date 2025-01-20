@@ -10,6 +10,7 @@
       "input1": "",
       "input10": "1",
       "input11": "2",
+      "input12": "1",
       "input2": "",
       "input3": "",
       "input4": "4",
@@ -65,6 +66,13 @@
         "id": "hefhiukaie",
         "label": "input5",
         "propertyName": "inputs.input5"
+      },
+      "izsryvrodd": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "1",
+        "id": "izsryvrodd",
+        "label": "input12",
+        "propertyName": "inputs.input12"
       },
       "jerlukfter": {
         "controlType": "INPUT_TEXT",
