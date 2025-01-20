@@ -1,0 +1,112 @@
+{
+  "gitSyncId": "678e2e77a202ad0b6665d111_95c75d8b-8980-4339-9345-cc8a01237ab9",
+  "id": "Page1_QueryModule11Copy",
+  "moduleUUID": "ec0533ea-0dbf-4960-9d64-23ce7527eaeb",
+  "packageUUID": "57f1059a-9435-4154-bf0a-53ec61d50a36",
+  "type": "QUERY_MODULE",
+  "unpublishedModuleInstance": {
+    "contextType": "PAGE",
+    "inputs": {
+      "input1": "",
+      "input2": "",
+      "input3": "",
+      "input4": "4",
+      "input5": "5",
+      "input6": "",
+      "input7": "",
+      "input8": "",
+      "jfhdjdhdjdhdjd": "2",
+      "kamakshi": "21",
+      "oooooo": "",
+      "pppppppppppp": ""
+    },
+    "moduleInputs": {
+      "batpvcznie": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "",
+        "id": "batpvcznie",
+        "label": "oooooo",
+        "propertyName": "inputs.oooooo"
+      },
+      "dgtazfjfdo": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "",
+        "id": "dgtazfjfdo",
+        "label": "input6",
+        "propertyName": "inputs.input6"
+      },
+      "farrpmvgwn": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "",
+        "id": "farrpmvgwn",
+        "label": "input2",
+        "propertyName": "inputs.input2"
+      },
+      "hefhiukaie": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "5",
+        "id": "hefhiukaie",
+        "label": "input5",
+        "propertyName": "inputs.input5"
+      },
+      "jerlukfter": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "",
+        "id": "jerlukfter",
+        "label": "pppppppppppp",
+        "propertyName": "inputs.pppppppppppp"
+      },
+      "nyuwoeysyx": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "",
+        "id": "nyuwoeysyx",
+        "label": "input3",
+        "propertyName": "inputs.input3"
+      },
+      "ocanygfnav": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "",
+        "id": "ocanygfnav",
+        "label": "input8",
+        "propertyName": "inputs.input8"
+      },
+      "ogiawguvxe": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "",
+        "id": "ogiawguvxe",
+        "label": "input1",
+        "propertyName": "inputs.input1"
+      },
+      "pfsgxnaauu": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "4",
+        "id": "pfsgxnaauu",
+        "label": "input4",
+        "propertyName": "inputs.input4"
+      },
+      "pitpvfkftn": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "2",
+        "id": "pitpvfkftn",
+        "label": "jfhdjdhdjdhdjd",
+        "propertyName": "inputs.jfhdjdhdjdhdjd"
+      },
+      "pkikghiewe": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "21",
+        "id": "pkikghiewe",
+        "label": "kamakshi",
+        "propertyName": "inputs.kamakshi"
+      },
+      "ypgasyjtaf": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "",
+        "id": "ypgasyjtaf",
+        "label": "input7",
+        "propertyName": "inputs.input7"
+      }
+    },
+    "name": "QueryModule11Copy",
+    "pageId": "Page1"
+  }
+}
