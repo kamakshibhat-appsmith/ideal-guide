@@ -10,9 +10,17 @@
       "input1": "",
       "input2": "",
       "input3": "",
-      "kamakshi": "21"
+      "kamakshi": "21",
+      "oooooo": ""
     },
     "moduleInputs": {
+      "batpvcznie": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "",
+        "id": "batpvcznie",
+        "label": "oooooo",
+        "propertyName": "inputs.oooooo"
+      },
       "farrpmvgwn": {
         "controlType": "INPUT_TEXT",
         "defaultValue": "",
