@@ -13,6 +13,7 @@
       "offset": "2",
       "oppp": "1",
       "qaqqqa": "33",
+      "qweas": "1",
       "testK": "11",
       "tweak": "5"
     },
@@ -51,6 +52,13 @@
         "id": "tqzzlzvpbu",
         "label": "input1",
         "propertyName": "inputs.input1"
+      },
+      "vflmhxedrw": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "1",
+        "id": "vflmhxedrw",
+        "label": "qweas",
+        "propertyName": "inputs.qweas"
       },
       "vrpfgbgtqg": {
         "controlType": "INPUT_TEXT",
