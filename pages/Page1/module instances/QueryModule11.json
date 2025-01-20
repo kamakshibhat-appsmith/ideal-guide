@@ -9,6 +9,8 @@
     "inputs": {
       "input1": "44",
       "input2": "",
+      "input3": "22",
+      "input4": "qq",
       "limit": "2",
       "offset": "2",
       "oppp": "1",
@@ -17,6 +19,13 @@
       "testK": "11"
     },
     "moduleInputs": {
+      "ebbisdpqqm": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "22",
+        "id": "ebbisdpqqm",
+        "label": "input3",
+        "propertyName": "inputs.input3"
+      },
       "fcbzxfhrds": {
         "controlType": "INPUT_TEXT",
         "defaultValue": "11",
@@ -65,6 +74,13 @@
         "id": "tqzzlzvpbu",
         "label": "input1",
         "propertyName": "inputs.input1"
+      },
+      "uoofvzgabe": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "qq",
+        "id": "uoofvzgabe",
+        "label": "input4",
+        "propertyName": "inputs.input4"
       },
       "yjjcfupvoo": {
         "controlType": "INPUT_TEXT",
