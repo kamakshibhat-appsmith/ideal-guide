@@ -8,6 +8,8 @@
     "contextType": "PAGE",
     "inputs": {
       "input1": "44",
+      "input2": "",
+      "input3": "22",
       "limit": "2",
       "offset": "2",
       "oppp": "1",
@@ -16,6 +18,13 @@
       "testK": "11"
     },
     "moduleInputs": {
+      "ebbisdpqqm": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "22",
+        "id": "ebbisdpqqm",
+        "label": "input3",
+        "propertyName": "inputs.input3"
+      },
       "fcbzxfhrds": {
         "controlType": "INPUT_TEXT",
         "defaultValue": "11",
@@ -43,6 +52,13 @@
         "id": "rtboyggpqn",
         "label": "oppp",
         "propertyName": "inputs.oppp"
+      },
+      "rydlayzhet": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "",
+        "id": "rydlayzhet",
+        "label": "input2",
+        "propertyName": "inputs.input2"
       },
       "swprozlnry": {
         "controlType": "INPUT_TEXT",
