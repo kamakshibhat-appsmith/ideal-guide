@@ -1,7 +1,7 @@
 {
   "animateLoading": true,
   "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
-  "bottomRow": 28,
+  "bottomRow": 24,
   "dynamicBindingPathList": [
     {
       "key": "truncateButtonColor"
@@ -46,10 +46,10 @@
   "text": "{{QueryModule11.data.length}}",
   "textAlign": "LEFT",
   "textColor": "#231F20",
-  "topRow": 24,
+  "topRow": 20,
   "truncateButtonColor": "{{appsmith.theme.colors.primaryColor}}",
   "type": "TEXT_WIDGET",
   "version": 1,
-  "widgetId": "5ph598tevr",
-  "widgetName": "Text1Copy"
+  "widgetId": "zd8b985qud",
+  "widgetName": "Text1Copy1"
 }
