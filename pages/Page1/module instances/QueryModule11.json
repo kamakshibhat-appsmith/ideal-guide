@@ -9,6 +9,7 @@
     "inputs": {
       "input1": "",
       "input2": "",
+      "input3": "",
       "limit": "2",
       "offset": "2"
     },
@@ -19,6 +20,13 @@
         "id": "dazprtbfnx",
         "label": "input2",
         "propertyName": "inputs.input2"
+      },
+      "gszmqbkcao": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "",
+        "id": "gszmqbkcao",
+        "label": "input3",
+        "propertyName": "inputs.input3"
       },
       "kvqpfqqlnr": {
         "controlType": "INPUT_TEXT",
