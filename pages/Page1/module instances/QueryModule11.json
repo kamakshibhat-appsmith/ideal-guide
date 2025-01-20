@@ -11,6 +11,7 @@
       "input2": "",
       "input3": "22",
       "input4": "qq",
+      "input5": "56",
       "limit": "2",
       "offset": "2",
       "oppp": "1",
@@ -19,6 +20,13 @@
       "testK": "11"
     },
     "moduleInputs": {
+      "bnrqoodxwq": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "56",
+        "id": "bnrqoodxwq",
+        "label": "input5",
+        "propertyName": "inputs.input5"
+      },
       "ebbisdpqqm": {
         "controlType": "INPUT_TEXT",
         "defaultValue": "22",
