@@ -8,6 +8,7 @@
     "contextType": "PAGE",
     "inputs": {
       "input1": "44",
+      "input2": "111",
       "limit": "2",
       "offset": "2",
       "oppp": "1",
@@ -35,6 +36,13 @@
         "id": "lebvnaahyz",
         "label": "qaqqqa",
         "propertyName": "inputs.qaqqqa"
+      },
+      "roznickwmx": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "111",
+        "id": "roznickwmx",
+        "label": "input2",
+        "propertyName": "inputs.input2"
       },
       "rtboyggpqn": {
         "controlType": "INPUT_TEXT",
