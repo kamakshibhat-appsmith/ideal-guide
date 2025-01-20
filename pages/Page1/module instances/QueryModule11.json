@@ -7,9 +7,17 @@
   "unpublishedModuleInstance": {
     "contextType": "PAGE",
     "inputs": {
+      "input1": "",
       "kamakshi": "21"
     },
     "moduleInputs": {
+      "ogiawguvxe": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "",
+        "id": "ogiawguvxe",
+        "label": "input1",
+        "propertyName": "inputs.input1"
+      },
       "pkikghiewe": {
         "controlType": "INPUT_TEXT",
         "defaultValue": "21",
