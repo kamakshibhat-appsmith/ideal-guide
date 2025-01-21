@@ -17,6 +17,7 @@
       "input16": "12",
       "input17": "",
       "input18": "",
+      "input19": "",
       "input2": "",
       "input3": "",
       "input4": "4",
@@ -156,6 +157,13 @@
         "id": "pkikghiewe",
         "label": "kamakshi",
         "propertyName": "inputs.kamakshi"
+      },
+      "rnhjeonohu": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "",
+        "id": "rnhjeonohu",
+        "label": "input19",
+        "propertyName": "inputs.input19"
       },
       "wtftpdeuyw": {
         "controlType": "INPUT_TEXT",
