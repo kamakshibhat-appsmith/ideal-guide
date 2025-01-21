@@ -20,6 +20,7 @@
       "input19": "",
       "input2": "",
       "input20": "",
+      "input21": "",
       "input3": "",
       "input4": "4",
       "input5": "5",
@@ -88,6 +89,13 @@
         "id": "fddwqdhsvw",
         "label": "input9",
         "propertyName": "inputs.input9"
+      },
+      "gnwdyrgugs": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "",
+        "id": "gnwdyrgugs",
+        "label": "input21",
+        "propertyName": "inputs.input21"
       },
       "hefhiukaie": {
         "controlType": "INPUT_TEXT",
