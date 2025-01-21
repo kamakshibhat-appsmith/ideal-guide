@@ -10,6 +10,7 @@
       "input1": "",
       "input2": "",
       "input3": "",
+      "input4": "",
       "kamakshi": "21"
     },
     "moduleInputs": {
@@ -40,6 +41,13 @@
         "id": "pkikghiewe",
         "label": "kamakshi",
         "propertyName": "inputs.kamakshi"
+      },
+      "wxqxtfuksj": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "",
+        "id": "wxqxtfuksj",
+        "label": "input4",
+        "propertyName": "inputs.input4"
       }
     },
     "name": "QueryModule11CopyCopy1",
