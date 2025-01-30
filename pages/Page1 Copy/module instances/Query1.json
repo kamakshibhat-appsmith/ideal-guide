@@ -1,0 +1,14 @@
+{
+  "gitSyncId": "678e2e77a202ad0b6665d111_ff7884a4-12cc-46e1-a301-6e9bc923466f",
+  "id": "Page1 Copy_Query1",
+  "moduleUUID": "2f62ef28-517b-412b-8510-cad9c12523bf",
+  "packageUUID": "57f1059a-9435-4154-bf0a-53ec61d50a36",
+  "type": "QUERY_MODULE",
+  "unpublishedModuleInstance": {
+    "contextType": "PAGE",
+    "inputs": {},
+    "moduleInputs": {},
+    "name": "Query1",
+    "pageId": "Page1 Copy"
+  }
+}

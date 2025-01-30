@@ -11,9 +11,19 @@
       "input2": "",
       "input3": "",
       "input4": "",
+      "input5": "",
+      "input6": "",
+      "input7": "",
       "kamakshi": "21"
     },
     "moduleInputs": {
+      "ekmcysvwgj": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "",
+        "id": "ekmcysvwgj",
+        "label": "input5",
+        "propertyName": "inputs.input5"
+      },
       "farrpmvgwn": {
         "controlType": "INPUT_TEXT",
         "defaultValue": "",
@@ -35,12 +45,26 @@
         "label": "input1",
         "propertyName": "inputs.input1"
       },
+      "otbihdobgg": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "",
+        "id": "otbihdobgg",
+        "label": "input7",
+        "propertyName": "inputs.input7"
+      },
       "pkikghiewe": {
         "controlType": "INPUT_TEXT",
         "defaultValue": "21",
         "id": "pkikghiewe",
         "label": "kamakshi",
         "propertyName": "inputs.kamakshi"
+      },
+      "rnguhuezzb": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "",
+        "id": "rnguhuezzb",
+        "label": "input6",
+        "propertyName": "inputs.input6"
       },
       "wxqxtfuksj": {
         "controlType": "INPUT_TEXT",

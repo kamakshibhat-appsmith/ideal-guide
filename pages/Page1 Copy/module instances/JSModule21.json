@@ -1,0 +1,32 @@
+{
+  "gitSyncId": "678e2e77a202ad0b6665d111_2f187637-4ba0-46c9-81a9-b47d308b7b3a",
+  "id": "Page1 Copy_JSModule21",
+  "moduleUUID": "c4111fc9-bf23-47af-8fb1-08f4ccd260ea",
+  "packageUUID": "57f1059a-9435-4154-bf0a-53ec61d50a36",
+  "type": "JS_MODULE",
+  "unpublishedModuleInstance": {
+    "contextType": "PAGE",
+    "inputs": {
+      "myFun1": "[\"1\"]",
+      "myFun2": "[]"
+    },
+    "moduleInputs": {
+      "thedvneken": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[]",
+        "id": "thedvneken",
+        "label": "myFun2",
+        "propertyName": "inputs.myFun2"
+      },
+      "tyvwlooyql": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[]",
+        "id": "tyvwlooyql",
+        "label": "myFun1",
+        "propertyName": "inputs.myFun1"
+      }
+    },
+    "name": "JSModule21",
+    "pageId": "Page1 Copy"
+  }
+}

@@ -3,7 +3,7 @@
   "animateLoading": true,
   "autoFocus": false,
   "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
-  "bottomRow": 44,
+  "bottomRow": 7,
   "boxShadow": "none",
   "defaultText": "{{QueryModule11.data.length}}",
   "dynamicBindingPathList": [
@@ -26,7 +26,7 @@
   "isRequired": false,
   "isVisible": true,
   "key": "tk5kknr1wb",
-  "label": "Label",
+  "label": "okokok",
   "labelAlignment": "left",
   "labelPosition": "Top",
   "labelStyle": "",
@@ -49,9 +49,9 @@
   "responsiveBehavior": "fill",
   "rightColumn": 22,
   "showStepArrows": false,
-  "topRow": 37,
+  "topRow": 0,
   "type": "INPUT_WIDGET_V2",
   "version": 2,
-  "widgetId": "l628uydfnv",
-  "widgetName": "Input1Copy"
+  "widgetId": "2g78tziv85",
+  "widgetName": "Input1Copy1"
 }
